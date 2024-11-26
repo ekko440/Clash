@@ -1,8 +1,5 @@
-#全球物流查询
 DOMAIN-SUFFIX,17track.net
-#终点站
 DOMAIN-SUFFIX,emby.wtf
-#UPS
 DOMAIN-SUFFIX,usps.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,cloud.oracle.com
@@ -12,7 +9,7 @@ DOMAIN-SUFFIX,186133.xyz
 DOMAIN-SUFFIX,takesend.com
 # 快钱
 DOMAIN-SUFFIX,99bill.com
-#咸鱼
+#闲鱼
 DOMAIN-SUFFIX,goofish.com
 #泊寓
 DOMAIN-SUFFIX,inboyu.com
