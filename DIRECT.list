@@ -4,10 +4,8 @@ DOMAIN-SUFFIX,17track.net
 DOMAIN-SUFFIX,emby.wtf
 #UPS
 DOMAIN-SUFFIX,usps.com
-#甲骨文
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,cloud.oracle.com
-#自用域名
 DOMAIN-SUFFIX,110360.xyz
 DOMAIN-SUFFIX,186133.xyz
 # 泰佳物流
